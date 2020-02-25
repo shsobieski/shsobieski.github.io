@@ -1,11 +1,11 @@
 # Site settings
 author: Shawn Sobieski
-title: 
+title: Learn, Create, Repeat
 header-img: img/home-bg.png
 email: shsobieski@gmail.com
 copyright_name: Shawn Sobieski
 description: > # this means to ignore newlines until "baseurl:"
-  
+  "Curiosity is the engine of achievement." - Sir Ken Robinson 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  shsobieski
