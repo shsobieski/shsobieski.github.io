@@ -7,7 +7,7 @@ permalink:  why_im_becoming_a_data_science
 
 When I first started playing guitar I spent half an hour a day learning to work my fingers into the appropriate positions to play the chords. At first it was slow, then I began getting calluses on my fingers, and slowly but surely I learned my first chord. After that, I learned a few more, and before I knew it I was playing for multiple hours a day. My journey from newbie to moderately skilled musician could be graphed like this:
 
-![](http://https://https://imgur.com/ofOs8ek)
+[]!('This PC/Downloads/download')
 
 My point is that if you want to improve at anything, data can help you analyze that improvement. That analysis is how we can know what getting better means, which methods are providing the best results, and where to focus our efforts if we seek to boost development for the future.  
 
