@@ -5,7 +5,6 @@ date:       2020-03-31 13:28:03 -0400
 permalink:  ten_things_i_learned_while_writing_my_module_1_project
 ---
 
-After my first project I learned so much. 
 
 ### 1. Plan backwards
 
